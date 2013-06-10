@@ -1,0 +1,26 @@
+#about-us
+{
+    width:700px;
+    margin:5px auto;
+    text-align: center;
+    color:#686564;
+}
+
+.why-amio{
+    padding:15px;
+    border-bottom: 1px dashed silver;
+
+
+}
+.why-amio img{
+    float:left;
+    margin-right:5px;
+
+}
+#amio_txt{
+    text-align: justify;
+    padding:20px;
+    text-indent: 20px;
+    color:red;
+    font-style: italic;
+}

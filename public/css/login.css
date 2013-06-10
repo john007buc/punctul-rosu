@@ -1,0 +1,36 @@
+
+#login-form-div{
+    height:auto;
+    overflow:auto;
+    width:350px;
+    margin:40px auto;
+    padding:2px;
+    text-align: center;
+}
+#login-form-header{
+   height:auto;
+    overflow:auto;
+    background-color: #F8F8F8;
+    margin:5px 0;
+    text-align: center;
+}
+#login-form-header img{
+    height:35px;
+    width:35px;
+    line-height: 40px;
+}
+label.form-head{
+    font-size: 30px;
+}
+#login-form-div p {
+   color:blue;
+}
+#login-messages{
+    color:#B40431;
+    background-color: #F6CEEC;
+    height: auto;
+    overflow: auto;
+}
+#login-messages img{
+    float:left;
+}

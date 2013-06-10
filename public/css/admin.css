@@ -1,0 +1,192 @@
+body{
+    margin:0;
+    padding:0;
+}
+#top-shell
+{
+    height:auto;
+    background:#459CC4;
+    width:auto;
+    margin:0;
+    overflow: auto;
+
+}
+#top-header
+{
+    width:900px;
+    margin:0 auto;
+    border:1px dashed white;
+    text-align:center;
+}
+
+#top-header h2
+{
+  color:white;
+}
+#menu
+{
+    width:900px;
+    height:auto;
+    margin:2px auto;
+
+}
+#menu ul
+{
+    list-style-type: none;
+    margin:0;
+    padding:0;
+
+}
+#menu ul li{
+    display: inline-block;
+
+    background-color: #5E615F;
+    border-radius:5px;
+    height:35px;
+    line-height:35px;
+
+}
+#menu ul li a{
+
+   text-decoration:none;
+   padding:0 4px;
+   margin:0;
+    /*display:block;
+    float:left;*/
+
+   font-size:120%;
+    color:white;
+
+
+}
+#menu ul li a:hover
+{
+   color: yellow;
+    font-weight: bold;
+}
+#shell
+{
+    width:900px;
+    margin:0 auto;
+
+    border-left:2px dashed #D5DBDD;
+    border-right:2px dashed #D5DBDD;
+    height:auto;
+    min-height:800px;
+
+}
+
+/***********************Categories page***********************************/
+#buttons
+{
+    margin-top:10px;
+    padding:5px;
+    background-color: red;
+    color:white;
+    float:left;
+}
+
+#buttons button
+{
+    background-color: #FA2;
+    color:#333;
+    border:1px solid #333;
+}
+
+#clear{
+    clear:both;
+}
+
+#categories-div
+{
+
+    float:left;
+    padding:10px;
+    width:200px;
+    text-align:center;
+    margin-top:20px;
+    background-color: #adff2f;
+
+}
+#quesitons-div
+{
+    float:right;
+    padding:10px;
+    width:650px;
+    text-align:center;
+    margin-top:20px;
+    background-color: #adff2f;
+}
+
+#categories-div table,#quesitons-div table
+{
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.even
+{
+   background-color: #C6E9EE;
+}
+.odd
+{
+   background-color: #E9F8FA;
+}
+
+#forms
+{
+    position:absolute;
+    width:auto;
+    padding:10px;
+    background-color:#E0F8F7;
+    border:5px solid #CEECF5;
+    border-radius:10px;
+    visibility: hidden;
+}
+
+#messageDiv
+{
+    visibility: hidden;
+    border: 1px solid green;
+    text-align:center;
+    background-color: #adff2f;
+}
+
+#div-buttons
+{
+   margin:5px 0;
+    border:1px solid red;
+    overflow: auto;
+}
+#div-buttons input
+{
+    float:right;
+}
+.variants
+{
+
+    overflow: auto;
+}
+.variants input
+{
+    float:left;
+}
+.variants a
+{
+  text-decoration:none;
+
+  line-height: 30px;
+
+}
+.variants a img
+{
+    width:15px;
+    height:15px;
+    margin:0;
+    padding:0;
+    border:0;
+}
+.category-press
+{
+   background-color: red;
+}

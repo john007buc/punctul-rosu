@@ -1,0 +1,28 @@
+
+#register-form-header{
+  height:auto;
+  overflow:auto;
+  background-color: #F8F8F8;
+  margin:5px 0;
+}
+#register-form-header img{
+    float:left;
+    height:35px;
+    width:35px;
+}
+#register-form-header h3{
+    margin:0;
+    line-height: 35px;
+}
+#error-msg{
+    text-align: left;
+    color:#B40431;
+    background-color: #F6CEEC;
+    height: auto;
+    overflow: auto;
+    padding: 10px;
+}
+#error-msg img{
+    display: block;
+    margin:0 auto;
+}

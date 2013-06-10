@@ -1,0 +1,5 @@
+var TIMP_LIMITA = 10;
+var NUMAR_EXERCITII = 10;
+var SECUNDE_AFISARE_EXERCITIU = 1;
+var PATH = BASE_PATH+"games/";
+var AJAX_URL = BASE_PATH+LANGUAGE+"/ajax/game_data";

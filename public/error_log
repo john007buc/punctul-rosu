@@ -1,0 +1,594 @@
+[15-Feb-2013 17:35:24] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home/kojpvj/public_html/aptio.ro/public/index.php on line 16
+[15-Feb-2013 17:35:38] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home/kojpvj/public_html/aptio.ro/public/index.php on line 16
+[15-Feb-2013 17:37:02] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home/kojpvj/public_html/aptio.ro/public/index.php on line 16
+[15-Feb-2013 17:37:07] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home/kojpvj/public_html/aptio.ro/public/index.php on line 16
+[15-Feb-2013 17:38:33] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home/kojpvj/public_html/aptio.ro/public/index.php on line 16
+[15-Feb-2013 17:38:35] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home/kojpvj/public_html/aptio.ro/public/index.php on line 16
+[15-Feb-2013 17:42:18] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home/kojpvj/public_html/aptio.ro/public/index.php on line 16
+[15-Feb-2013 17:42:21] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home/kojpvj/public_html/aptio.ro/public/index.php on line 16
+[15-Feb-2013 17:47:16] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO)' in /home/kojpvj/public_html/aptio.ro/yySmarty/DB.php:20
+Stack trace:
+#0 /home/kojpvj/public_html/aptio.ro/yySmarty/DB.php(20): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/kojpvj/public_html/aptio.ro/public/index.php(16): DB->__construct()
+#2 {main}
+  thrown in /home/kojpvj/public_html/aptio.ro/yySmarty/DB.php on line 20
+[15-Feb-2013 17:47:16] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO)' in /home/kojpvj/public_html/aptio.ro/yySmarty/DB.php:20
+Stack trace:
+#0 /home/kojpvj/public_html/aptio.ro/yySmarty/DB.php(20): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/kojpvj/public_html/aptio.ro/public/index.php(16): DB->__construct()
+#2 {main}
+  thrown in /home/kojpvj/public_html/aptio.ro/yySmarty/DB.php on line 20
+[15-Feb-2013 17:47:18] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO)' in /home/kojpvj/public_html/aptio.ro/yySmarty/DB.php:20
+Stack trace:
+#0 /home/kojpvj/public_html/aptio.ro/yySmarty/DB.php(20): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/kojpvj/public_html/aptio.ro/public/index.php(16): DB->__construct()
+#2 {main}
+  thrown in /home/kojpvj/public_html/aptio.ro/yySmarty/DB.php on line 20
+[15-Feb-2013 17:47:18] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO)' in /home/kojpvj/public_html/aptio.ro/yySmarty/DB.php:20
+Stack trace:
+#0 /home/kojpvj/public_html/aptio.ro/yySmarty/DB.php(20): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/kojpvj/public_html/aptio.ro/public/index.php(16): DB->__construct()
+#2 {main}
+  thrown in /home/kojpvj/public_html/aptio.ro/yySmarty/DB.php on line 20
+[15-Feb-2013 17:47:28] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO)' in /home/kojpvj/public_html/aptio.ro/yySmarty/DB.php:20
+Stack trace:
+#0 /home/kojpvj/public_html/aptio.ro/yySmarty/DB.php(20): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/kojpvj/public_html/aptio.ro/public/index.php(16): DB->__construct()
+#2 {main}
+  thrown in /home/kojpvj/public_html/aptio.ro/yySmarty/DB.php on line 20
+[15-Feb-2013 17:47:28] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO)' in /home/kojpvj/public_html/aptio.ro/yySmarty/DB.php:20
+Stack trace:
+#0 /home/kojpvj/public_html/aptio.ro/yySmarty/DB.php(20): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/kojpvj/public_html/aptio.ro/public/index.php(16): DB->__construct()
+#2 {main}
+  thrown in /home/kojpvj/public_html/aptio.ro/yySmarty/DB.php on line 20
+[15-Feb-2013 17:48:33] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO)' in /home/kojpvj/public_html/aptio.ro/yySmarty/DB.php:20
+Stack trace:
+#0 /home/kojpvj/public_html/aptio.ro/yySmarty/DB.php(20): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/kojpvj/public_html/aptio.ro/public/index.php(16): DB->__construct()
+#2 {main}
+  thrown in /home/kojpvj/public_html/aptio.ro/yySmarty/DB.php on line 20
+[15-Feb-2013 17:48:40] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO)' in /home/kojpvj/public_html/aptio.ro/yySmarty/DB.php:20
+Stack trace:
+#0 /home/kojpvj/public_html/aptio.ro/yySmarty/DB.php(20): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/kojpvj/public_html/aptio.ro/public/index.php(16): DB->__construct()
+#2 {main}
+  thrown in /home/kojpvj/public_html/aptio.ro/yySmarty/DB.php on line 20
+[15-Feb-2013 17:51:14] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO)' in /home/kojpvj/public_html/aptio.ro/yySmarty/DB.php:20
+Stack trace:
+#0 /home/kojpvj/public_html/aptio.ro/yySmarty/DB.php(20): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/kojpvj/public_html/aptio.ro/public/index.php(16): DB->__construct()
+#2 {main}
+  thrown in /home/kojpvj/public_html/aptio.ro/yySmarty/DB.php on line 20
+[15-Feb-2013 17:51:22] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO)' in /home/kojpvj/public_html/aptio.ro/yySmarty/DB.php:20
+Stack trace:
+#0 /home/kojpvj/public_html/aptio.ro/yySmarty/DB.php(20): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/kojpvj/public_html/aptio.ro/public/index.php(16): DB->__construct()
+#2 {main}
+  thrown in /home/kojpvj/public_html/aptio.ro/yySmarty/DB.php on line 20
+[15-Feb-2013 17:52:03] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO)' in /home/kojpvj/public_html/aptio.ro/yySmarty/DB.php:20
+Stack trace:
+#0 /home/kojpvj/public_html/aptio.ro/yySmarty/DB.php(20): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/kojpvj/public_html/aptio.ro/public/index.php(16): DB->__construct()
+#2 {main}
+  thrown in /home/kojpvj/public_html/aptio.ro/yySmarty/DB.php on line 20
+[15-Feb-2013 17:52:08] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO)' in /home/kojpvj/public_html/aptio.ro/yySmarty/DB.php:20
+Stack trace:
+#0 /home/kojpvj/public_html/aptio.ro/yySmarty/DB.php(20): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/kojpvj/public_html/aptio.ro/public/index.php(16): DB->__construct()
+#2 {main}
+  thrown in /home/kojpvj/public_html/aptio.ro/yySmarty/DB.php on line 20
+[15-Feb-2013 17:54:01] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO)' in /home/kojpvj/public_html/aptio.ro/yySmarty/DB.php:20
+Stack trace:
+#0 /home/kojpvj/public_html/aptio.ro/yySmarty/DB.php(20): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/kojpvj/public_html/aptio.ro/public/index.php(16): DB->__construct()
+#2 {main}
+  thrown in /home/kojpvj/public_html/aptio.ro/yySmarty/DB.php on line 20
+[15-Feb-2013 17:54:09] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO)' in /home/kojpvj/public_html/aptio.ro/yySmarty/DB.php:20
+Stack trace:
+#0 /home/kojpvj/public_html/aptio.ro/yySmarty/DB.php(20): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/kojpvj/public_html/aptio.ro/public/index.php(16): DB->__construct()
+#2 {main}
+  thrown in /home/kojpvj/public_html/aptio.ro/yySmarty/DB.php on line 20
+[15-Feb-2013 17:57:35] PHP Parse error:  syntax error, unexpected ':' in /home/kojpvj/public_html/aptio.ro/application/models/user.php on line 435
+[15-Feb-2013 17:57:37] PHP Parse error:  syntax error, unexpected ':' in /home/kojpvj/public_html/aptio.ro/application/models/user.php on line 435
+[15-Feb-2013 18:08:39] PHP Parse error:  syntax error, unexpected ':' in /home/kojpvj/public_html/aptio.ro/application/models/user.php on line 435
+[15-Feb-2013 18:12:53] PHP Warning:  mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: (28000/1045): Access denied for user 'kojpvj_aptio'@'localhost' (using password: YES) in /home/kojpvj/public_html/aptio.ro/public/test_db.php on line 5
+[15-Feb-2013 18:15:25] PHP Warning:  mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: (28000/1045): Access denied for user 'kojpvj_aptio'@'localhost' (using password: YES) in /home/kojpvj/public_html/aptio.ro/public/test_db.php on line 5
+[15-Feb-2013 18:15:26] PHP Warning:  mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: (28000/1045): Access denied for user 'kojpvj_aptio'@'localhost' (using password: YES) in /home/kojpvj/public_html/aptio.ro/public/test_db.php on line 5
+[15-Feb-2013 18:15:27] PHP Warning:  mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: (28000/1045): Access denied for user 'kojpvj_aptio'@'localhost' (using password: YES) in /home/kojpvj/public_html/aptio.ro/public/test_db.php on line 5
+[15-Feb-2013 18:15:30] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'kojpvj_aptio'@'localhost' (using password: YES)' in /home/kojpvj/public_html/aptio.ro/yySmarty/DB.php:20
+Stack trace:
+#0 /home/kojpvj/public_html/aptio.ro/yySmarty/DB.php(20): PDO->__construct('mysql:host=loca...', 'kojpvj_aptio', 'y?1oTk*MQ,-T')
+#1 /home/kojpvj/public_html/aptio.ro/public/index.php(16): DB->__construct()
+#2 {main}
+  thrown in /home/kojpvj/public_html/aptio.ro/yySmarty/DB.php on line 20
+[15-Feb-2013 18:15:40] PHP Warning:  mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: (28000/1045): Access denied for user 'kojpvj_aptio'@'localhost' (using password: YES) in /home/kojpvj/public_html/aptio.ro/public/test_db.php on line 5
+[15-Feb-2013 18:16:56] PHP Warning:  mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: (28000/1045): Access denied for user 'kojpvj_aptio'@'localhost' (using password: YES) in /home/kojpvj/public_html/aptio.ro/public/test_db.php on line 5
+[15-Feb-2013 18:17:00] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'kojpvj_aptio'@'localhost' (using password: YES)' in /home/kojpvj/public_html/aptio.ro/yySmarty/DB.php:20
+Stack trace:
+#0 /home/kojpvj/public_html/aptio.ro/yySmarty/DB.php(20): PDO->__construct('mysql:host=loca...', 'kojpvj_aptio', 'y?1oTk*MQ,-T')
+#1 /home/kojpvj/public_html/aptio.ro/public/index.php(16): DB->__construct()
+#2 {main}
+  thrown in /home/kojpvj/public_html/aptio.ro/yySmarty/DB.php on line 20
+[15-Feb-2013 18:17:00] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'kojpvj_aptio'@'localhost' (using password: YES)' in /home/kojpvj/public_html/aptio.ro/yySmarty/DB.php:20
+Stack trace:
+#0 /home/kojpvj/public_html/aptio.ro/yySmarty/DB.php(20): PDO->__construct('mysql:host=loca...', 'kojpvj_aptio', 'y?1oTk*MQ,-T')
+#1 /home/kojpvj/public_html/aptio.ro/public/index.php(16): DB->__construct()
+#2 {main}
+  thrown in /home/kojpvj/public_html/aptio.ro/yySmarty/DB.php on line 20
+[15-Feb-2013 18:17:05] PHP Warning:  mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: (28000/1045): Access denied for user 'kojpvj_aptio'@'localhost' (using password: YES) in /home/kojpvj/public_html/aptio.ro/public/test_db.php on line 5
+[15-Feb-2013 18:17:40] PHP Warning:  mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: (28000/1045): Access denied for user 'kojpvj_aptio'@'localhost' (using password: YES) in /home/kojpvj/public_html/aptio.ro/public/test_db.php on line 5
+[15-Feb-2013 18:17:50] PHP Warning:  mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: (28000/1045): Access denied for user 'kojpvj_aptio'@'localhost' (using password: YES) in /home/kojpvj/public_html/aptio.ro/public/test_db.php on line 5
+[15-Feb-2013 18:18:12] PHP Warning:  mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: (28000/1045): Access denied for user 'kojpvj_aptio'@'localhost' (using password: YES) in /home/kojpvj/public_html/aptio.ro/public/test_db.php on line 5
+[15-Feb-2013 18:19:40] PHP Warning:  mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: (28000/1045): Access denied for user 'kojpvj_cars'@'localhost' (using password: YES) in /home/kojpvj/public_html/aptio.ro/public/index.php on line 6
+[15-Feb-2013 18:20:32] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/kojpvj/public_html/aptio.ro/public/index.php:3) in /home/kojpvj/public_html/aptio.ro/yySmarty/Session.php on line 9
+[15-Feb-2013 18:22:25] PHP Parse error:  syntax error, unexpected ':' in /home/kojpvj/public_html/aptio.ro/application/models/user.php on line 435
+[15-Feb-2013 18:22:27] PHP Parse error:  syntax error, unexpected ':' in /home/kojpvj/public_html/aptio.ro/application/models/user.php on line 435
+[15-Feb-2013 18:22:36] PHP Parse error:  syntax error, unexpected ':' in /home/kojpvj/public_html/aptio.ro/application/models/user.php on line 435
+[15-Feb-2013 18:23:15] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'kojpvj_cars'@'localhost' (using password: NO)' in /home/kojpvj/public_html/aptio.ro/yySmarty/DB.php:20
+Stack trace:
+#0 /home/kojpvj/public_html/aptio.ro/yySmarty/DB.php(20): PDO->__construct('mysql:host=loca...', 'kojpvj_cars', NULL)
+#1 /home/kojpvj/public_html/aptio.ro/public/index.php(25): DB->__construct()
+#2 {main}
+  thrown in /home/kojpvj/public_html/aptio.ro/yySmarty/DB.php on line 20
+[15-Feb-2013 18:27:47] PHP Parse error:  syntax error, unexpected ':' in /home/kojpvj/public_html/aptio.ro/application/models/user.php on line 435
+[15-Feb-2013 18:27:49] PHP Parse error:  syntax error, unexpected ':' in /home/kojpvj/public_html/aptio.ro/application/models/user.php on line 435
+[15-Feb-2013 18:28:20] PHP Parse error:  syntax error, unexpected ':' in /home/kojpvj/public_html/aptio.ro/application/models/user.php on line 435
+[15-Feb-2013 18:28:25] PHP Parse error:  syntax error, unexpected ':' in /home/kojpvj/public_html/aptio.ro/application/models/user.php on line 435
+[15-Feb-2013 18:30:46] PHP Parse error:  syntax error, unexpected ':' in /home/kojpvj/public_html/aptio.ro/application/models/user.php on line 435
+[15-Feb-2013 18:31:36] PHP Parse error:  syntax error, unexpected ':' in /home/kojpvj/public_html/aptio.ro/application/models/user.php on line 435
+[15-Feb-2013 18:31:44] PHP Parse error:  syntax error, unexpected ':' in /home/kojpvj/public_html/aptio.ro/application/models/user.php on line 435
+[15-Feb-2013 18:32:39] PHP Parse error:  syntax error, unexpected ':' in /home/kojpvj/public_html/aptio.ro/application/models/user.php on line 435
+[15-Feb-2013 18:32:42] PHP Parse error:  syntax error, unexpected ':' in /home/kojpvj/public_html/aptio.ro/application/models/user.php on line 435
+[15-Feb-2013 18:37:20] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home/kojpvj/public_html/aptio.ro/public/index.php on line 20
+[15-Feb-2013 18:45:55] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home/kojpvj/public_html/aptio.ro/public/index.php on line 20
+[15-Feb-2013 18:46:05] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home/kojpvj/public_html/aptio.ro/public/index.php on line 20
+[15-Feb-2013 18:49:29] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class index does not exist' in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php:99
+Stack trace:
+#0 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(99): ReflectionClass->__construct('index')
+#1 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(75): Router->setAction('js')
+#2 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(124): Router->parseAdress()
+#3 /home/kojpvj/public_html/aptio.ro/public/index.php(38): Router->run()
+#4 {main}
+  thrown in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php on line 99
+[15-Feb-2013 18:49:31] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class index does not exist' in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php:99
+Stack trace:
+#0 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(99): ReflectionClass->__construct('index')
+#1 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(62): Router->setAction('index')
+#2 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(124): Router->parseAdress()
+#3 /home/kojpvj/public_html/aptio.ro/public/index.php(38): Router->run()
+#4 {main}
+  thrown in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php on line 99
+[15-Feb-2013 18:49:52] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class index does not exist' in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php:99
+Stack trace:
+#0 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(99): ReflectionClass->__construct('index')
+#1 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(62): Router->setAction('index')
+#2 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(124): Router->parseAdress()
+#3 /home/kojpvj/public_html/aptio.ro/public/index.php(38): Router->run()
+#4 {main}
+  thrown in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php on line 99
+[15-Feb-2013 18:49:52] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class index does not exist' in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php:99
+Stack trace:
+#0 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(99): ReflectionClass->__construct('index')
+#1 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(62): Router->setAction('index')
+#2 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(124): Router->parseAdress()
+#3 /home/kojpvj/public_html/aptio.ro/public/index.php(38): Router->run()
+#4 {main}
+  thrown in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php on line 99
+[15-Feb-2013 18:49:52] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class index does not exist' in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php:99
+Stack trace:
+#0 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(99): ReflectionClass->__construct('index')
+#1 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(62): Router->setAction('index')
+#2 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(124): Router->parseAdress()
+#3 /home/kojpvj/public_html/aptio.ro/public/index.php(38): Router->run()
+#4 {main}
+  thrown in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php on line 99
+[15-Feb-2013 18:50:02] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class index does not exist' in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php:99
+Stack trace:
+#0 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(99): ReflectionClass->__construct('index')
+#1 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(75): Router->setAction('thumbs')
+#2 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(124): Router->parseAdress()
+#3 /home/kojpvj/public_html/aptio.ro/public/index.php(38): Router->run()
+#4 {main}
+  thrown in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php on line 99
+[15-Feb-2013 18:50:03] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class index does not exist' in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php:99
+Stack trace:
+#0 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(99): ReflectionClass->__construct('index')
+#1 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(75): Router->setAction('thumbs')
+#2 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(124): Router->parseAdress()
+#3 /home/kojpvj/public_html/aptio.ro/public/index.php(38): Router->run()
+#4 {main}
+  thrown in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php on line 99
+[15-Feb-2013 18:50:03] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class index does not exist' in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php:99
+Stack trace:
+#0 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(99): ReflectionClass->__construct('index')
+#1 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(75): Router->setAction('thumbs')
+#2 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(124): Router->parseAdress()
+#3 /home/kojpvj/public_html/aptio.ro/public/index.php(38): Router->run()
+#4 {main}
+  thrown in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php on line 99
+[15-Feb-2013 18:50:03] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class index does not exist' in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php:99
+Stack trace:
+#0 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(99): ReflectionClass->__construct('index')
+#1 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(62): Router->setAction('index')
+#2 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(124): Router->parseAdress()
+#3 /home/kojpvj/public_html/aptio.ro/public/index.php(38): Router->run()
+#4 {main}
+  thrown in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php on line 99
+[15-Feb-2013 18:50:16] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class index does not exist' in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php:99
+Stack trace:
+#0 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(99): ReflectionClass->__construct('index')
+#1 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(62): Router->setAction('index')
+#2 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(124): Router->parseAdress()
+#3 /home/kojpvj/public_html/aptio.ro/public/index.php(38): Router->run()
+#4 {main}
+  thrown in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php on line 99
+[15-Feb-2013 18:50:16] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class index does not exist' in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php:99
+Stack trace:
+#0 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(99): ReflectionClass->__construct('index')
+#1 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(62): Router->setAction('index')
+#2 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(124): Router->parseAdress()
+#3 /home/kojpvj/public_html/aptio.ro/public/index.php(38): Router->run()
+#4 {main}
+  thrown in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php on line 99
+[15-Feb-2013 18:50:16] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class index does not exist' in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php:99
+Stack trace:
+#0 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(99): ReflectionClass->__construct('index')
+#1 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(62): Router->setAction('index')
+#2 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(124): Router->parseAdress()
+#3 /home/kojpvj/public_html/aptio.ro/public/index.php(38): Router->run()
+#4 {main}
+  thrown in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php on line 99
+[15-Feb-2013 18:50:17] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class index does not exist' in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php:99
+Stack trace:
+#0 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(99): ReflectionClass->__construct('index')
+#1 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(62): Router->setAction('index')
+#2 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(124): Router->parseAdress()
+#3 /home/kojpvj/public_html/aptio.ro/public/index.php(38): Router->run()
+#4 {main}
+  thrown in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php on line 99
+[15-Feb-2013 18:50:17] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class index does not exist' in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php:99
+Stack trace:
+#0 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(99): ReflectionClass->__construct('index')
+#1 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(75): Router->setAction('thumbs')
+#2 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(124): Router->parseAdress()
+#3 /home/kojpvj/public_html/aptio.ro/public/index.php(38): Router->run()
+#4 {main}
+  thrown in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php on line 99
+[15-Feb-2013 18:50:17] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class index does not exist' in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php:99
+Stack trace:
+#0 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(99): ReflectionClass->__construct('index')
+#1 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(75): Router->setAction('thumbs')
+#2 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(124): Router->parseAdress()
+#3 /home/kojpvj/public_html/aptio.ro/public/index.php(38): Router->run()
+#4 {main}
+  thrown in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php on line 99
+[15-Feb-2013 18:50:18] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class index does not exist' in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php:99
+Stack trace:
+#0 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(99): ReflectionClass->__construct('index')
+#1 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(75): Router->setAction('thumbs')
+#2 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(124): Router->parseAdress()
+#3 /home/kojpvj/public_html/aptio.ro/public/index.php(38): Router->run()
+#4 {main}
+  thrown in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php on line 99
+[15-Feb-2013 18:50:18] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class index does not exist' in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php:99
+Stack trace:
+#0 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(99): ReflectionClass->__construct('index')
+#1 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(62): Router->setAction('index')
+#2 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(124): Router->parseAdress()
+#3 /home/kojpvj/public_html/aptio.ro/public/index.php(38): Router->run()
+#4 {main}
+  thrown in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php on line 99
+[15-Feb-2013 18:51:09] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class index does not exist' in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php:99
+Stack trace:
+#0 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(99): ReflectionClass->__construct('index')
+#1 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(75): Router->setAction('thumbs')
+#2 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(124): Router->parseAdress()
+#3 /home/kojpvj/public_html/aptio.ro/public/index.php(38): Router->run()
+#4 {main}
+  thrown in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php on line 99
+[15-Feb-2013 18:51:09] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class index does not exist' in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php:99
+Stack trace:
+#0 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(99): ReflectionClass->__construct('index')
+#1 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(75): Router->setAction('thumbs')
+#2 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(124): Router->parseAdress()
+#3 /home/kojpvj/public_html/aptio.ro/public/index.php(38): Router->run()
+#4 {main}
+  thrown in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php on line 99
+[15-Feb-2013 18:51:10] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class index does not exist' in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php:99
+Stack trace:
+#0 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(99): ReflectionClass->__construct('index')
+#1 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(75): Router->setAction('thumbs')
+#2 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(124): Router->parseAdress()
+#3 /home/kojpvj/public_html/aptio.ro/public/index.php(38): Router->run()
+#4 {main}
+  thrown in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php on line 99
+[15-Feb-2013 18:51:10] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class index does not exist' in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php:99
+Stack trace:
+#0 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(99): ReflectionClass->__construct('index')
+#1 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(62): Router->setAction('index')
+#2 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(124): Router->parseAdress()
+#3 /home/kojpvj/public_html/aptio.ro/public/index.php(38): Router->run()
+#4 {main}
+  thrown in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php on line 99
+[15-Feb-2013 18:51:19] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class index does not exist' in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php:99
+Stack trace:
+#0 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(99): ReflectionClass->__construct('index')
+#1 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(75): Router->setAction('js')
+#2 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(124): Router->parseAdress()
+#3 /home/kojpvj/public_html/aptio.ro/public/index.php(38): Router->run()
+#4 {main}
+  thrown in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php on line 99
+[15-Feb-2013 18:51:20] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class index does not exist' in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php:99
+Stack trace:
+#0 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(99): ReflectionClass->__construct('index')
+#1 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(62): Router->setAction('index')
+#2 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(124): Router->parseAdress()
+#3 /home/kojpvj/public_html/aptio.ro/public/index.php(38): Router->run()
+#4 {main}
+  thrown in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php on line 99
+[15-Feb-2013 18:51:31] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class index does not exist' in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php:99
+Stack trace:
+#0 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(99): ReflectionClass->__construct('index')
+#1 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(62): Router->setAction('index')
+#2 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(124): Router->parseAdress()
+#3 /home/kojpvj/public_html/aptio.ro/public/index.php(38): Router->run()
+#4 {main}
+  thrown in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php on line 99
+[15-Feb-2013 18:51:31] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class index does not exist' in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php:99
+Stack trace:
+#0 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(99): ReflectionClass->__construct('index')
+#1 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(62): Router->setAction('index')
+#2 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(124): Router->parseAdress()
+#3 /home/kojpvj/public_html/aptio.ro/public/index.php(38): Router->run()
+#4 {main}
+  thrown in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php on line 99
+[15-Feb-2013 18:51:31] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class index does not exist' in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php:99
+Stack trace:
+#0 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(99): ReflectionClass->__construct('index')
+#1 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(62): Router->setAction('index')
+#2 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(124): Router->parseAdress()
+#3 /home/kojpvj/public_html/aptio.ro/public/index.php(38): Router->run()
+#4 {main}
+  thrown in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php on line 99
+[15-Feb-2013 18:51:43] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class index does not exist' in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php:99
+Stack trace:
+#0 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(99): ReflectionClass->__construct('index')
+#1 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(62): Router->setAction('index')
+#2 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(124): Router->parseAdress()
+#3 /home/kojpvj/public_html/aptio.ro/public/index.php(38): Router->run()
+#4 {main}
+  thrown in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php on line 99
+[15-Feb-2013 18:51:44] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class index does not exist' in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php:99
+Stack trace:
+#0 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(99): ReflectionClass->__construct('index')
+#1 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(75): Router->setAction('thumbs')
+#2 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(124): Router->parseAdress()
+#3 /home/kojpvj/public_html/aptio.ro/public/index.php(38): Router->run()
+#4 {main}
+  thrown in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php on line 99
+[15-Feb-2013 18:51:44] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class index does not exist' in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php:99
+Stack trace:
+#0 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(99): ReflectionClass->__construct('index')
+#1 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(75): Router->setAction('thumbs')
+#2 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(124): Router->parseAdress()
+#3 /home/kojpvj/public_html/aptio.ro/public/index.php(38): Router->run()
+#4 {main}
+  thrown in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php on line 99
+[15-Feb-2013 18:51:45] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class index does not exist' in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php:99
+Stack trace:
+#0 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(99): ReflectionClass->__construct('index')
+#1 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(75): Router->setAction('thumbs')
+#2 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(124): Router->parseAdress()
+#3 /home/kojpvj/public_html/aptio.ro/public/index.php(38): Router->run()
+#4 {main}
+  thrown in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php on line 99
+[15-Feb-2013 18:51:45] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class index does not exist' in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php:99
+Stack trace:
+#0 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(99): ReflectionClass->__construct('index')
+#1 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(62): Router->setAction('index')
+#2 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(124): Router->parseAdress()
+#3 /home/kojpvj/public_html/aptio.ro/public/index.php(38): Router->run()
+#4 {main}
+  thrown in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php on line 99
+[15-Feb-2013 18:52:26] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class index does not exist' in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php:99
+Stack trace:
+#0 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(99): ReflectionClass->__construct('index')
+#1 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(62): Router->setAction('index')
+#2 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(124): Router->parseAdress()
+#3 /home/kojpvj/public_html/aptio.ro/public/index.php(38): Router->run()
+#4 {main}
+  thrown in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php on line 99
+[15-Feb-2013 18:52:46] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class index does not exist' in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php:99
+Stack trace:
+#0 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(99): ReflectionClass->__construct('index')
+#1 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(62): Router->setAction('index')
+#2 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(124): Router->parseAdress()
+#3 /home/kojpvj/public_html/aptio.ro/public/index.php(38): Router->run()
+#4 {main}
+  thrown in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php on line 99
+[15-Feb-2013 18:52:56] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class index does not exist' in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php:99
+Stack trace:
+#0 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(99): ReflectionClass->__construct('index')
+#1 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(62): Router->setAction('index')
+#2 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(124): Router->parseAdress()
+#3 /home/kojpvj/public_html/aptio.ro/public/index.php(38): Router->run()
+#4 {main}
+  thrown in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php on line 99
+[15-Feb-2013 18:52:56] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class index does not exist' in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php:99
+Stack trace:
+#0 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(99): ReflectionClass->__construct('index')
+#1 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(62): Router->setAction('index')
+#2 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(124): Router->parseAdress()
+#3 /home/kojpvj/public_html/aptio.ro/public/index.php(38): Router->run()
+#4 {main}
+  thrown in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php on line 99
+[15-Feb-2013 18:52:56] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class index does not exist' in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php:99
+Stack trace:
+#0 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(99): ReflectionClass->__construct('index')
+#1 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(62): Router->setAction('index')
+#2 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(124): Router->parseAdress()
+#3 /home/kojpvj/public_html/aptio.ro/public/index.php(38): Router->run()
+#4 {main}
+  thrown in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php on line 99
+[15-Feb-2013 18:52:58] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class index does not exist' in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php:99
+Stack trace:
+#0 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(99): ReflectionClass->__construct('index')
+#1 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(62): Router->setAction('index')
+#2 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(124): Router->parseAdress()
+#3 /home/kojpvj/public_html/aptio.ro/public/index.php(38): Router->run()
+#4 {main}
+  thrown in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php on line 99
+[15-Feb-2013 18:52:58] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class index does not exist' in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php:99
+Stack trace:
+#0 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(99): ReflectionClass->__construct('index')
+#1 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(62): Router->setAction('index')
+#2 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(124): Router->parseAdress()
+#3 /home/kojpvj/public_html/aptio.ro/public/index.php(38): Router->run()
+#4 {main}
+  thrown in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php on line 99
+[15-Feb-2013 18:53:07] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class index does not exist' in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php:99
+Stack trace:
+#0 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(99): ReflectionClass->__construct('index')
+#1 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(62): Router->setAction('index')
+#2 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(124): Router->parseAdress()
+#3 /home/kojpvj/public_html/aptio.ro/public/index.php(38): Router->run()
+#4 {main}
+  thrown in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php on line 99
+[15-Feb-2013 18:53:07] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class index does not exist' in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php:99
+Stack trace:
+#0 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(99): ReflectionClass->__construct('index')
+#1 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(62): Router->setAction('index')
+#2 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(124): Router->parseAdress()
+#3 /home/kojpvj/public_html/aptio.ro/public/index.php(38): Router->run()
+#4 {main}
+  thrown in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php on line 99
+[15-Feb-2013 18:53:07] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class index does not exist' in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php:99
+Stack trace:
+#0 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(99): ReflectionClass->__construct('index')
+#1 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(62): Router->setAction('index')
+#2 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(124): Router->parseAdress()
+#3 /home/kojpvj/public_html/aptio.ro/public/index.php(38): Router->run()
+#4 {main}
+  thrown in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php on line 99
+[15-Feb-2013 18:53:10] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class index does not exist' in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php:99
+Stack trace:
+#0 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(99): ReflectionClass->__construct('index')
+#1 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(62): Router->setAction('index')
+#2 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(124): Router->parseAdress()
+#3 /home/kojpvj/public_html/aptio.ro/public/index.php(38): Router->run()
+#4 {main}
+  thrown in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php on line 99
+[15-Feb-2013 18:53:11] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class index does not exist' in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php:99
+Stack trace:
+#0 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(99): ReflectionClass->__construct('index')
+#1 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(62): Router->setAction('index')
+#2 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(124): Router->parseAdress()
+#3 /home/kojpvj/public_html/aptio.ro/public/index.php(38): Router->run()
+#4 {main}
+  thrown in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php on line 99
+[15-Feb-2013 18:53:12] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class index does not exist' in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php:99
+Stack trace:
+#0 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(99): ReflectionClass->__construct('index')
+#1 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(62): Router->setAction('index')
+#2 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(124): Router->parseAdress()
+#3 /home/kojpvj/public_html/aptio.ro/public/index.php(38): Router->run()
+#4 {main}
+  thrown in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php on line 99
+[15-Feb-2013 18:53:12] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class index does not exist' in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php:99
+Stack trace:
+#0 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(99): ReflectionClass->__construct('index')
+#1 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(62): Router->setAction('index')
+#2 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(124): Router->parseAdress()
+#3 /home/kojpvj/public_html/aptio.ro/public/index.php(38): Router->run()
+#4 {main}
+  thrown in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php on line 99
+[15-Feb-2013 18:53:14] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class index does not exist' in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php:99
+Stack trace:
+#0 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(99): ReflectionClass->__construct('index')
+#1 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(62): Router->setAction('index')
+#2 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(124): Router->parseAdress()
+#3 /home/kojpvj/public_html/aptio.ro/public/index.php(38): Router->run()
+#4 {main}
+  thrown in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php on line 99
+[15-Feb-2013 18:53:14] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class index does not exist' in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php:99
+Stack trace:
+#0 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(99): ReflectionClass->__construct('index')
+#1 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(62): Router->setAction('index')
+#2 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(124): Router->parseAdress()
+#3 /home/kojpvj/public_html/aptio.ro/public/index.php(38): Router->run()
+#4 {main}
+  thrown in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php on line 99
+[15-Feb-2013 18:53:24] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class index does not exist' in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php:99
+Stack trace:
+#0 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(99): ReflectionClass->__construct('index')
+#1 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(62): Router->setAction('index')
+#2 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(124): Router->parseAdress()
+#3 /home/kojpvj/public_html/aptio.ro/public/index.php(38): Router->run()
+#4 {main}
+  thrown in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php on line 99
+[15-Feb-2013 18:53:24] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class index does not exist' in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php:99
+Stack trace:
+#0 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(99): ReflectionClass->__construct('index')
+#1 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(62): Router->setAction('index')
+#2 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(124): Router->parseAdress()
+#3 /home/kojpvj/public_html/aptio.ro/public/index.php(38): Router->run()
+#4 {main}
+  thrown in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php on line 99
+[15-Feb-2013 18:53:24] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class index does not exist' in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php:99
+Stack trace:
+#0 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(99): ReflectionClass->__construct('index')
+#1 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(62): Router->setAction('index')
+#2 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(124): Router->parseAdress()
+#3 /home/kojpvj/public_html/aptio.ro/public/index.php(38): Router->run()
+#4 {main}
+  thrown in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php on line 99
+[15-Feb-2013 18:53:36] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class index does not exist' in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php:99
+Stack trace:
+#0 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(99): ReflectionClass->__construct('index')
+#1 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(75): Router->setAction('js')
+#2 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(124): Router->parseAdress()
+#3 /home/kojpvj/public_html/aptio.ro/public/index.php(38): Router->run()
+#4 {main}
+  thrown in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php on line 99
+[15-Feb-2013 18:53:37] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class index does not exist' in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php:99
+Stack trace:
+#0 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(99): ReflectionClass->__construct('index')
+#1 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(62): Router->setAction('index')
+#2 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(124): Router->parseAdress()
+#3 /home/kojpvj/public_html/aptio.ro/public/index.php(38): Router->run()
+#4 {main}
+  thrown in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php on line 99
+[15-Feb-2013 18:54:26] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class index does not exist' in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php:99
+Stack trace:
+#0 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(99): ReflectionClass->__construct('index')
+#1 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(62): Router->setAction('index')
+#2 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(124): Router->parseAdress()
+#3 /home/kojpvj/public_html/aptio.ro/public/index.php(38): Router->run()
+#4 {main}
+  thrown in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php on line 99
+[15-Feb-2013 18:54:33] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class index does not exist' in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php:99
+Stack trace:
+#0 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(99): ReflectionClass->__construct('index')
+#1 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(62): Router->setAction('index')
+#2 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(124): Router->parseAdress()
+#3 /home/kojpvj/public_html/aptio.ro/public/index.php(38): Router->run()
+#4 {main}
+  thrown in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php on line 99
+[15-Feb-2013 18:54:34] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class index does not exist' in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php:99
+Stack trace:
+#0 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(99): ReflectionClass->__construct('index')
+#1 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(62): Router->setAction('index')
+#2 /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php(124): Router->parseAdress()
+#3 /home/kojpvj/public_html/aptio.ro/public/index.php(38): Router->run()
+#4 {main}
+  thrown in /home/kojpvj/public_html/aptio.ro/yySmarty/router.class.php on line 99
+[15-Feb-2013 18:55:44] PHP Warning:  in_array() [<a href='function.in-array'>function.in-array</a>]: Wrong datatype for second argument in /home/kojpvj/public_html/aptio.ro/application/models/user.php on line 430
+[15-Feb-2013 19:02:27] PHP Warning:  move_uploaded_file(/uploads/94305331b38ee981c99ffa4bdd8a7c6c.jpg) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home/kojpvj/public_html/aptio.ro/application/controllers/HomeController.php on line 125
+[15-Feb-2013 19:02:27] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/phpuPT2J5' to '/uploads/94305331b38ee981c99ffa4bdd8a7c6c.jpg' in /home/kojpvj/public_html/aptio.ro/application/controllers/HomeController.php on line 125
+[15-Feb-2013 19:08:13] PHP Warning:  move_uploaded_file(/public/uploads/95fa23f47d274a70cb6158584e3d15d6.png) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home/kojpvj/public_html/aptio.ro/application/controllers/HomeController.php on line 125
+[15-Feb-2013 19:08:13] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/phpYR9Lx2' to '/public/uploads/95fa23f47d274a70cb6158584e3d15d6.png' in /home/kojpvj/public_html/aptio.ro/application/controllers/HomeController.php on line 125
+[15-Feb-2013 19:09:26] PHP Warning:  opendir(/uploads) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home/kojpvj/public_html/aptio.ro/application/controllers/HomeController.php on line 158
+[15-Feb-2013 19:09:26] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/kojpvj/public_html/aptio.ro/application/controllers/HomeController.php on line 165
+[15-Feb-2013 21:23:23] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kojpvj/public_html/aptio.ro/application/controllers/TestController.php:12) in /home/kojpvj/public_html/aptio.ro/application/controllers/TestController.php on line 17

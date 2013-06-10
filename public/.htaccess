@@ -1,0 +1,6 @@
+#only on local host
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteBase /iva/amio/public
+RewriteRule ^(.*)$ index.php

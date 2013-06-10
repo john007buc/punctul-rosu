@@ -1,0 +1,52 @@
+#intro1
+{
+    padding:5px;
+    text-align: justify;
+    color:#686564;
+}
+#categories-div
+{
+    padding:65px 5px;
+    margin:5px;
+
+    height:auto;
+    overflow: auto;
+    float: left;
+}
+
+.category{
+    float:left;
+    margin:15px;
+    padding: 15px;
+    text-align: center;
+    width: auto;
+}
+
+.category img{
+    display: block;
+    margin:0 auto;
+    heigh:100px;
+    width:100px;
+    border: none;
+}
+
+.category h2{
+ margin:0;
+ color:#068de1;
+ background-color: #FAFAFA;
+ width:120px;
+
+}
+
+#intro2{
+    clear: both;
+    padding:25px 5px;
+    margin:5px;
+
+    background: url("../images/grey_bar.png") 0 0 repeat-x;
+}
+#intro2 p{
+    text-indent: 10px;
+    color:#686564;
+    text-align: justify;
+}

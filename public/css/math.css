@@ -1,0 +1,26 @@
+#math-games{
+    margin:10px;
+}
+
+.game{
+    height:auto;
+    width:auto;
+    overflow: auto;
+    text-align: center;
+    float: left;
+    margin: 10px;
+    padding: 10px;
+
+}
+.game h2{
+    margin:0;
+    color:#5882FA;
+    width:100px;
+}
+.game img{
+    display: block;
+    margin:0 auto;
+
+    border:2px solid #5882FA;
+
+}

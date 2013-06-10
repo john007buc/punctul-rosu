@@ -1,0 +1,28 @@
+#canvasjoc
+{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	border:1px solid #000000;
+}
+
+#se_incarca
+{
+	position:absolute;
+	left:0px;
+	top:0px;
+	visibility:hidden;
+	display:none;
+}
+
+#debug
+{
+width:300px;
+margin:0 auto;
+text-align: center;
+color:#B40431;
+background-color: #F6CEEC;
+height: auto;
+overflow: auto;
+
+}

@@ -1,0 +1,19 @@
+
+a img{
+    border:0;
+}
+.alert-error{
+    color:red;
+    background-color:#F6CEEC;
+    text-align: center;
+    padding:15px;
+    border:1px dotted red;
+}
+.alert-success{
+ background-color: #BCF5A9;
+ color:#04B45F;
+ text-align: center;
+ padding:15px;
+ border:1px dotted #04B45F;
+
+}
